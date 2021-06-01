@@ -2,7 +2,7 @@
 
 ### Project 2 under Suven Coding Internship
 
-You can view the Live Preview <a href="">Here</a>
+You can view the Live Preview <a href="https://shashwatbangar.github.io/Medium-Blogging/">Here</a>
 
 <ul><li>Designed a frontend template similar to any blogging or online publishing platform like Medium.</li>
 <li>The header contains navigation links, site logo & search bar.</li>
